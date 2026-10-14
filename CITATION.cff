@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: >-
+  Modelling the thermodynamic structure of the solar photosphere with machine-learning methods
+message: "If you use this work, please cite it as below."
+type: thesis
+authors:
+  - family-names: Živković
+    given-names: David
+thesis-type: "Master's thesis"
+institution:
+  name: University of Belgrade, Faculty of Mathematics
+year: 2026
+languages:
+  - srp
+keywords:
+  - physics-informed neural networks
+  - solar photosphere
+  - magnetohydrodynamics
+  - machine learning
