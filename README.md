@@ -1,4 +1,4 @@
-# Modelling the thermodynamic structure of the solar photosphere with machine-learning methods
+# Modelling the thermodynamic structure of the solar photosphere using machine-learning methods
 
 Master's thesis, University of Belgrade, Faculty of Mathematics, 2026.
 
